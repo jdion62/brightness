@@ -3,9 +3,6 @@ A program that represents images internally and will brighten them
 
 Made in collaboration with John Bertsch for a school project
 
-# CSC411
-
-
 Group: John Bertsch and Jacob Dion
 
 
